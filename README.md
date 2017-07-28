@@ -22,11 +22,11 @@ It is a test for **Bold attemption** and *Italic trys*.
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
  For more details, visit:
- > [Github Guide](https://zhuanlan.zhihu.com/passer)
+ > [Github Guide](https://zhuanlan.zhihu.com/passer), 
  > [Apple](www.apple.com)
  > - Jon Snow
 
-An Python segment:
+A Python segment:
 ```python
  def gua():
   print({}.format('gua is the philosophy of Python'))
@@ -39,3 +39,12 @@ You got two choices:
 - [ ]  Go home 
 
 emoji is ok: :camel:, :monkey:
+
+
+![GitHub Logo](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+
+A table:
+
+First |  Second
+----- |  -------------
+One   |  Two
