@@ -22,8 +22,8 @@ It is a test for **Bold attemption** and *Italic trys*.
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
  For more details, visit:
- > [Github Guide](https://zhuanlan.zhihu.com/passer]) 
- > Something gonna happens right now.
+ > [Github Guide](https://zhuanlan.zhihu.com/passer)
+ > [Apple](www.apple.com)
  > - Jon Snow
 
 An Python segment:
