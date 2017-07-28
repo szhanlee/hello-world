@@ -26,8 +26,8 @@ It is a test for **Bold attemption** and *Italic trys*.
 
 An Python segment:
 ```python
-def gua():
-print({}.format('gua is the philosophy of Python'))
+ def gua():
+  print({}.format('gua is the philosophy of Python'))
 ```  
 
 You may want more: `aList = [i for i in range(10) for j in range(i)]`
