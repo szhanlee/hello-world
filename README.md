@@ -8,19 +8,21 @@ It is a test for **Bold attemption** and *Italic trys*.
 * Can your see me
 * Get some fun
 
-    
+## Got fun
 
 - 权利的游戏
   - 龙妈
   - 囧雪
   - 三傻
 
- 一张流程图：
-![Here is the pic of branching]
-(https://guides.github.com/activities/hello-world/branching.png)
+两张流程图：
+ 
+![Here is the pic of branching](https://guides.github.com/activities/hello-world/branching.png)
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
  For more details, visit:
- > [Github Guide](https://zhuanlan.zhihu.com/passer])
+ > [Github Guide](https://zhuanlan.zhihu.com/passer]) 
  > Something gonna happens right now.
  > - Jon Snow
 
