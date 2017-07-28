@@ -16,12 +16,11 @@ It is a test for **Bold attemption** and *Italic trys*.
   - 三傻
 
  一张流程图：
- ![Here is the pic of branching]
+![Here is the pic of branching]
 (https://guides.github.com/activities/hello-world/branching.png)
 
  For more details, visit:
  > [Github Guide](https://zhuanlan.zhihu.com/passer])
- 
  > Something gonna happens right now.
  > - Jon Snow
 
